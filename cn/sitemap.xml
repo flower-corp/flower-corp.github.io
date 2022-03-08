@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="cn"
                 href="https://example.com/cn/"
                 />
@@ -26,11 +21,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,11 +37,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,11 +77,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://example.com/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
